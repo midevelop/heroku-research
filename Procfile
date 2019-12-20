@@ -1,3 +1,2 @@
 web:  cd back && npm i && npm run prod
-prod: cd front && yarn && yarn build
-copy: cp front/build back
+front: cd front && yarn && yarn build && cd .. && cp front/build back
