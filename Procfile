@@ -1,1 +1,1 @@
-web: cd back && npm i && npm run prod
+web: cd front && yarn && yarn build && cd .. && cd back && npm i && npm run prod
