@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/midevelop/heroku-research/issues"
   },
-  "homepage": "https://github.com/midevelop/heroku-research#readme"
+  "homepage": "https://github.com/midevelop/heroku-research#readme",
+  "dependencies": {
+    "yarn": "^1.21.1"
+  }
 }
